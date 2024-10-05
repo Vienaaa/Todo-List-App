@@ -10,4 +10,4 @@ Vui lòng cài đặt "ttkbootstrap" khi chạy:  pip install ttkbootstrap
 
   •	Thống Kê việc cần làm: Ứng dụng cung cấp tính năng xem thống kê, cho phép người dùng biết tổng số việc cần làm và số việc cần làm đã hoàn thành.
 
-  •	Lưu Trữ Dữ Liệu: Tất cả các việc cần làm được lưu trữ trong file JSON, giúp người dùng dễ dàng khôi phục danh sách việc cần làm ngay cả khi ứng dụng được đóng và mở lại.
+
