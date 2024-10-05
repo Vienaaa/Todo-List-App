@@ -1,5 +1,7 @@
 # Todo-List-App
 
+Vui lòng cài đặt "ttkbootstrap" khi chạy:  pip install ttkbootstrap
+
   •	Thêm việc cần làm: Người dùng có thể nhập việc cần làm vào ô nhập liệu và nhấn nút "Thêm" để thêm việc cần làm vào danh sách.
 
   •	Đánh Dấu Hoàn Thành: Với mỗi việc cần làm trong danh sách, người dùng có thể đánh dấu việc cần làm là "Hoàn thành" để dễ dàng nhận diện những công việc đã hoàn thành.
